@@ -1,0 +1,2 @@
+# ShinewunnaFinance
+My first finance 
